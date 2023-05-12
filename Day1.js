@@ -13,6 +13,8 @@ const f = createHelloWorld();
 f(); // "Hello World"
 
 The function returned by createHelloWorld should always return "Hello World".
+
+
 Example 2:
 
 Input: args = [{},null,42]

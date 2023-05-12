@@ -16,6 +16,8 @@ Explanation:
 counter() = 10 // The first time counter() is called, it returns n.
 counter() = 11 // Returns 1 more than the previous time.
 counter() = 12 // Returns 1 more than the previous time.
+
+
 Example 2:
 
 Input: 
