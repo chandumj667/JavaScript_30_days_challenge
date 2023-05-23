@@ -163,3 +163,4 @@ function jsonToMatrix(arr) {
     });
 
     return matrix; 
+}
